@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Quan&#39;s Blog</title>
+    <link>https://ndquan2110.github.io/</link>
+    <description>Recent content on Quan&#39;s Blog</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 17 Oct 2025 20:16:49 +0700</lastBuildDate>
+    <atom:link href="https://ndquan2110.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Xin chào mọi người!</title>
+      <link>https://ndquan2110.github.io/posts/hello-world/</link>
+      <pubDate>Fri, 17 Oct 2025 20:16:49 +0700</pubDate>
+      <guid>https://ndquan2110.github.io/posts/hello-world/</guid>
+      <description>&lt;p&gt;Chào mừng bạn đến với blog của mình! Đây là bài viết đầu tiên, giới thiệu ngắn về mục tiêu chia sẻ các kiến thức về Java và JavaScript bằng tiếng Việt.&lt;/p&gt;&#xA;&lt;p&gt;Trong các bài tiếp theo mình sẽ viết về các khái niệm, ví dụ, và dự án nhỏ kèm mã nguồn.&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;p&gt;Tác giả: Nguyễn Đình Quân&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>JavaScript: Xử lý sự kiện và tạo tương tác đơn giản</title>
+      <link>https://ndquan2110.github.io/posts/js-4/</link>
+      <pubDate>Fri, 17 Oct 2025 10:30:00 +0700</pubDate>
+      <guid>https://ndquan2110.github.io/posts/js-4/</guid>
+      <description>&lt;p&gt;Ví dụ tạo form đơn giản, bắt sự kiện submit, validate và hiển thị thông báo. Mục tiêu là làm tương tác trên trang tĩnh.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>JavaScript: Promise và Async/Await</title>
+      <link>https://ndquan2110.github.io/posts/js-3/</link>
+      <pubDate>Fri, 17 Oct 2025 10:20:00 +0700</pubDate>
+      <guid>https://ndquan2110.github.io/posts/js-3/</guid>
+      <description>&lt;p&gt;Hướng dẫn Promise, chain, và sử dụng async/await để xử lý bất đồng bộ. Ví dụ fetch API giả lập.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>JavaScript: Hàm, closure và scope</title>
+      <link>https://ndquan2110.github.io/posts/js-2/</link>
+      <pubDate>Fri, 17 Oct 2025 10:10:00 +0700</pubDate>
+      <guid>https://ndquan2110.github.io/posts/js-2/</guid>
+      <description>&lt;p&gt;Giải thích hàm, biến cục bộ và toàn cục, hoisting, và closure với ví dụ thực tế.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>JavaScript: Tổng quan và cách thêm script vào trang web</title>
+      <link>https://ndquan2110.github.io/posts/js-1/</link>
+      <pubDate>Fri, 17 Oct 2025 10:00:00 +0700</pubDate>
+      <guid>https://ndquan2110.github.io/posts/js-1/</guid>
+      <description>&lt;p&gt;Giới thiệu JavaScript, cách nhúng script trong HTML, và thao tác DOM cơ bản (getElementById, querySelector, addEventListener).&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Java: Làm việc với file và I/O</title>
+      <link>https://ndquan2110.github.io/posts/java-5/</link>
+      <pubDate>Fri, 17 Oct 2025 09:40:00 +0700</pubDate>
+      <guid>https://ndquan2110.github.io/posts/java-5/</guid>
+      <description>&lt;p&gt;Ví dụ đọc/ghi file bằng java.nio.file.Files và BufferedReader/BufferedWriter. Lưu ý về encoding và xử lý tài nguyên (try-with-resources).&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Java: Xử lý ngoại lệ và logging</title>
+      <link>https://ndquan2110.github.io/posts/java-4/</link>
+      <pubDate>Fri, 17 Oct 2025 09:30:00 +0700</pubDate>
+      <guid>https://ndquan2110.github.io/posts/java-4/</guid>
+      <description>&lt;p&gt;Hướng dẫn sử dụng try-catch-finally, tạo ngoại lệ tùy chỉnh, và thiết lập logging đơn giản bằng java.util.logging hoặc SLF4J.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Java: Kế thừa và đa hình</title>
+      <link>https://ndquan2110.github.io/posts/java-3/</link>
+      <pubDate>Fri, 17 Oct 2025 09:20:00 +0700</pubDate>
+      <guid>https://ndquan2110.github.io/posts/java-3/</guid>
+      <description>&lt;p&gt;Giải thích kế thừa (extends), sử dụng abstract class và interface, cùng ví dụ minh họa đa hình trong Java.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Java: Lập trình hướng đối tượng - Lớp và đối tượng</title>
+      <link>https://ndquan2110.github.io/posts/java-2/</link>
+      <pubDate>Fri, 17 Oct 2025 09:10:00 +0700</pubDate>
+      <guid>https://ndquan2110.github.io/posts/java-2/</guid>
+      <description>&lt;p&gt;Trình bày các khái niệm lớp, đối tượng, thuộc tính và phương thức trong Java. Ví dụ định nghĩa lớp Person và cách khởi tạo đối tượng.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Java: Kiến thức cơ bản và môi trường phát triển</title>
+      <link>https://ndquan2110.github.io/posts/java-1/</link>
+      <pubDate>Fri, 17 Oct 2025 09:00:00 +0700</pubDate>
+      <guid>https://ndquan2110.github.io/posts/java-1/</guid>
+      <description>&lt;p&gt;Bài viết này giới thiệu môi trường phát triển Java (JDK, IDE), cấu trúc một chương trình Java đơn giản, và cách biên dịch/chạy từ dòng lệnh.&lt;/p&gt;&#xA;&lt;p&gt;Ví dụ: một lớp HelloWorld với phương thức main.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Giới thiệu</title>
+      <link>https://ndquan2110.github.io/about/</link>
+      <pubDate>Fri, 17 Oct 2025 00:00:00 +0700</pubDate>
+      <guid>https://ndquan2110.github.io/about/</guid>
+      <description>&lt;h1 id=&#34;xin-chào-mình-là-nguyễn-đình-quân-&#34;&gt;Xin chào, mình là &lt;strong&gt;Nguyễn Đình Quân&lt;/strong&gt; 👋&lt;/h1&gt;&#xA;&lt;p&gt;Mình hiện đang học và nghiên cứu về &lt;strong&gt;lập trình mạng&lt;/strong&gt;, đặc biệt là &lt;strong&gt;Java và JavaScript&lt;/strong&gt;.&lt;/p&gt;&#xA;&lt;p&gt;Blog này được tạo bằng &lt;strong&gt;Hugo&lt;/strong&gt; – Static Site Generator mạnh mẽ, nơi mình chia sẻ kinh nghiệm học lập trình và những gì mình tìm hiểu được.&lt;/p&gt;&#xA;&lt;p&gt;📫 Liên hệ: &lt;a href=&#34;mailto:email@example.com&#34;&gt;email@example.com&lt;/a&gt;&lt;/p&gt;&#xA;&lt;h2 id=&#34;profile-ngắn&#34;&gt;Profile ngắn&lt;/h2&gt;&#xA;&lt;p&gt;Mình là sinh viên/nghiên cứu sinh/độc lập học tập về lập trình mạng. Mục tiêu: viết tối thiểu 9 bài bằng tiếng Việt về Java và JavaScript (đã bao gồm các bài về OOP, IO, bất đồng bộ, DOM&amp;hellip;). Tất cả mã nguồn ví dụ sẽ được đưa trực tiếp trong bài viết hoặc liên kết tới GitHub.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

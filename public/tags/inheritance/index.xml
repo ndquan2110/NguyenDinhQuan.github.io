@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Inheritance on Quan&#39;s Blog</title>
+    <link>https://ndquan2110.github.io/tags/inheritance/</link>
+    <description>Recent content in Inheritance on Quan&#39;s Blog</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 17 Oct 2025 09:20:00 +0700</lastBuildDate>
+    <atom:link href="https://ndquan2110.github.io/tags/inheritance/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Java: Kế thừa và đa hình</title>
+      <link>https://ndquan2110.github.io/posts/java-3/</link>
+      <pubDate>Fri, 17 Oct 2025 09:20:00 +0700</pubDate>
+      <guid>https://ndquan2110.github.io/posts/java-3/</guid>
+      <description>&lt;p&gt;Giải thích kế thừa (extends), sử dụng abstract class và interface, cùng ví dụ minh họa đa hình trong Java.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

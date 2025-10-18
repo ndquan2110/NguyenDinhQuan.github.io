@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Logging on Quan&#39;s Blog</title>
+    <link>https://ndquan2110.github.io/tags/logging/</link>
+    <description>Recent content in Logging on Quan&#39;s Blog</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 17 Oct 2025 09:30:00 +0700</lastBuildDate>
+    <atom:link href="https://ndquan2110.github.io/tags/logging/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Java: Xử lý ngoại lệ và logging</title>
+      <link>https://ndquan2110.github.io/posts/java-4/</link>
+      <pubDate>Fri, 17 Oct 2025 09:30:00 +0700</pubDate>
+      <guid>https://ndquan2110.github.io/posts/java-4/</guid>
+      <description>&lt;p&gt;Hướng dẫn sử dụng try-catch-finally, tạo ngoại lệ tùy chỉnh, và thiết lập logging đơn giản bằng java.util.logging hoặc SLF4J.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

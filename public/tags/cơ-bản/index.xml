@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Cơ Bản on Quan&#39;s Blog</title>
+    <link>https://ndquan2110.github.io/tags/c%C6%A1-b%E1%BA%A3n/</link>
+    <description>Recent content in Cơ Bản on Quan&#39;s Blog</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 17 Oct 2025 09:00:00 +0700</lastBuildDate>
+    <atom:link href="https://ndquan2110.github.io/tags/c%C6%A1-b%E1%BA%A3n/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Java: Kiến thức cơ bản và môi trường phát triển</title>
+      <link>https://ndquan2110.github.io/posts/java-1/</link>
+      <pubDate>Fri, 17 Oct 2025 09:00:00 +0700</pubDate>
+      <guid>https://ndquan2110.github.io/posts/java-1/</guid>
+      <description>&lt;p&gt;Bài viết này giới thiệu môi trường phát triển Java (JDK, IDE), cấu trúc một chương trình Java đơn giản, và cách biên dịch/chạy từ dòng lệnh.&lt;/p&gt;&#xA;&lt;p&gt;Ví dụ: một lớp HelloWorld với phương thức main.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

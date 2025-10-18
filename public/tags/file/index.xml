@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>File on Quan&#39;s Blog</title>
+    <link>https://ndquan2110.github.io/tags/file/</link>
+    <description>Recent content in File on Quan&#39;s Blog</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 17 Oct 2025 09:40:00 +0700</lastBuildDate>
+    <atom:link href="https://ndquan2110.github.io/tags/file/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Java: Làm việc với file và I/O</title>
+      <link>https://ndquan2110.github.io/posts/java-5/</link>
+      <pubDate>Fri, 17 Oct 2025 09:40:00 +0700</pubDate>
+      <guid>https://ndquan2110.github.io/posts/java-5/</guid>
+      <description>&lt;p&gt;Ví dụ đọc/ghi file bằng java.nio.file.Files và BufferedReader/BufferedWriter. Lưu ý về encoding và xử lý tài nguyên (try-with-resources).&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

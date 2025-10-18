@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Categories on Quan&#39;s Blog</title>
+    <link>https://ndquan2110.github.io/categories/</link>
+    <description>Recent content in Categories on Quan&#39;s Blog</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 17 Oct 2025 20:16:49 +0700</lastBuildDate>
+    <atom:link href="https://ndquan2110.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Blog</title>
+      <link>https://ndquan2110.github.io/categories/blog/</link>
+      <pubDate>Fri, 17 Oct 2025 20:16:49 +0700</pubDate>
+      <guid>https://ndquan2110.github.io/categories/blog/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>JavaScript</title>
+      <link>https://ndquan2110.github.io/categories/javascript/</link>
+      <pubDate>Fri, 17 Oct 2025 10:30:00 +0700</pubDate>
+      <guid>https://ndquan2110.github.io/categories/javascript/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Java</title>
+      <link>https://ndquan2110.github.io/categories/java/</link>
+      <pubDate>Fri, 17 Oct 2025 09:40:00 +0700</pubDate>
+      <guid>https://ndquan2110.github.io/categories/java/</guid>
+      <description></description>
+    </item>
+  </channel>
+</rss>

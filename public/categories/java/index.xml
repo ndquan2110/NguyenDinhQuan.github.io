@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Java on Quan&#39;s Blog</title>
+    <link>https://ndquan2110.github.io/categories/java/</link>
+    <description>Recent content in Java on Quan&#39;s Blog</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 17 Oct 2025 09:40:00 +0700</lastBuildDate>
+    <atom:link href="https://ndquan2110.github.io/categories/java/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Java: Làm việc với file và I/O</title>
+      <link>https://ndquan2110.github.io/posts/java-5/</link>
+      <pubDate>Fri, 17 Oct 2025 09:40:00 +0700</pubDate>
+      <guid>https://ndquan2110.github.io/posts/java-5/</guid>
+      <description>&lt;p&gt;Ví dụ đọc/ghi file bằng java.nio.file.Files và BufferedReader/BufferedWriter. Lưu ý về encoding và xử lý tài nguyên (try-with-resources).&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Java: Xử lý ngoại lệ và logging</title>
+      <link>https://ndquan2110.github.io/posts/java-4/</link>
+      <pubDate>Fri, 17 Oct 2025 09:30:00 +0700</pubDate>
+      <guid>https://ndquan2110.github.io/posts/java-4/</guid>
+      <description>&lt;p&gt;Hướng dẫn sử dụng try-catch-finally, tạo ngoại lệ tùy chỉnh, và thiết lập logging đơn giản bằng java.util.logging hoặc SLF4J.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Java: Kế thừa và đa hình</title>
+      <link>https://ndquan2110.github.io/posts/java-3/</link>
+      <pubDate>Fri, 17 Oct 2025 09:20:00 +0700</pubDate>
+      <guid>https://ndquan2110.github.io/posts/java-3/</guid>
+      <description>&lt;p&gt;Giải thích kế thừa (extends), sử dụng abstract class và interface, cùng ví dụ minh họa đa hình trong Java.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Java: Lập trình hướng đối tượng - Lớp và đối tượng</title>
+      <link>https://ndquan2110.github.io/posts/java-2/</link>
+      <pubDate>Fri, 17 Oct 2025 09:10:00 +0700</pubDate>
+      <guid>https://ndquan2110.github.io/posts/java-2/</guid>
+      <description>&lt;p&gt;Trình bày các khái niệm lớp, đối tượng, thuộc tính và phương thức trong Java. Ví dụ định nghĩa lớp Person và cách khởi tạo đối tượng.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Java: Kiến thức cơ bản và môi trường phát triển</title>
+      <link>https://ndquan2110.github.io/posts/java-1/</link>
+      <pubDate>Fri, 17 Oct 2025 09:00:00 +0700</pubDate>
+      <guid>https://ndquan2110.github.io/posts/java-1/</guid>
+      <description>&lt;p&gt;Bài viết này giới thiệu môi trường phát triển Java (JDK, IDE), cấu trúc một chương trình Java đơn giản, và cách biên dịch/chạy từ dòng lệnh.&lt;/p&gt;&#xA;&lt;p&gt;Ví dụ: một lớp HelloWorld với phương thức main.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
